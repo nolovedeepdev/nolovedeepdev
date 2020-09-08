@@ -7,4 +7,4 @@
 I'm a computer science student from UFPa, love backend and frontend development. This is my first website from my future business (https://bitmaptec.herokuapp.com/index/).
 
 - [Website](https://bitmaptec.herokuapp.com/index/) 💻 - My portifolio (again).
-- [Website](https://ileaseiyaogunte.herokuapp.com/index/) 💻 - My second project in Django's framework.
+- [Blog for a religious temple ](https://ileaseiyaogunte.herokuapp.com/index/) 💻 - My second project in Django's framework.
