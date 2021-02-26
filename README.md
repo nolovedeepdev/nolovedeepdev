@@ -8,4 +8,4 @@ I'm a computer science student from UFPa, love backend and frontend development.
 
 - [Website](https://bitmaptec.herokuapp.com/index/) 💻 - My portifolio (again).
 - [Blog for a religious temple ](https://ileaseiyaogunte.herokuapp.com/index/) 💻 - My second project in Django's framework.
-- [A Educational web site](http://codeedu.herokuapp.com/index.html/) 💻 - My other project in Django's framework (with a group) for my University UFPa.
+- [A Educational web site](http://codeedu.herokuapp.com/index.html) 💻 - My other project in Django's framework (with a group) for my University UFPa.
