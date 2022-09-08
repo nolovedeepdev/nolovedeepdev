@@ -9,7 +9,7 @@
 
 <h3 align="center">About Me</h3>  
  <p>
- 👩‍🎓  I'm a third-year CSE undergrad at UFPa.
+ 👩‍🎓  I'm a third-year Computer Science undergrad at UFPa.
 <br>🐱 I'm 23 y/o.
 <br>💫 I’m a full-stack web developer, currently learning Criptography, Python and ML/AI.
 <br>⭐ Besides all that I love reading books.
